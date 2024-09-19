@@ -9,20 +9,17 @@
 │       1_task4.py
 │       output_text.txt
 │       top_30_words.csv
-│
 ├───question_2
 │       chapter1.jpg
 │       chapter1.py
 │       chapter1out.jpg
 │       chapter2.py
 │       cryptogram.py
-│
 ├───question_3
 │       3_correction.py
 │       3_decryption.py
 │       3_main.py
-│
+├───.gitignore
 ├───README.md
-│
 └───requirements.txt
 ```

@@ -1,5 +1,6 @@
 # HIT137_Assignment_2
 ## Directory Structure
+```bash
 .
 ├───question_1
 │       1_task1.py
@@ -24,3 +25,4 @@
 ├───README.md
 │
 └───requirements.txt
+```
